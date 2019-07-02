@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MODEL_FEED>
+  <DATA>
+    <SOURCE>Abc</SOURCE>
+    <TYPE>Sanguinaria canadensis</TYPE>
+    <ZONE>4</ZONE>
+    <SIZE>Mostly Shady</SIZE>
+    <LINES>$2.44</LINES>
+    <FEED>031599</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Abc</SOURCE>
+    <TYPE>Aquilegia canadensis</TYPE>
+    <ZONE>3</ZONE>
+    <SIZE>Mostly Shady</SIZE>
+    <LINES>$9.37</LINES>
+    <FEED>030699</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Xyz</SOURCE>
+    <TYPE>Caltha palustris</TYPE>
+    <ZONE>4</ZONE>
+    <SIZE>Mostly Sunny</SIZE>
+    <LINES>$6.81</LINES>
+    <FEED>051799</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Xyz</SOURCE>
+    <TYPE>Caltha palustris</TYPE>
+    <ZONE>4</ZONE>
+    <SIZE>Mostly Shady</SIZE>
+    <LINES>$9.90</LINES>
+    <FEED>030699</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Acme</SOURCE>
+    <TYPE>Dicentra cucullaria</TYPE>
+    <ZONE>3</ZONE>
+    <SIZE>Mostly Shady</SIZE>
+    <LINES>$6.44</LINES>
+    <FEED>012099</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Acme</SOURCE>
+    <TYPE>Asarum canadense</TYPE>
+    <ZONE>3</ZONE>
+    <SIZE>Mostly Shady</SIZE>
+    <LINES>$9.03</LINES>
+    <FEED>041899</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Data1</SOURCE>
+    <TYPE>Hepatica americana</TYPE>
+    <ZONE>4</ZONE>
+    <SIZE>Mostly Shady</SIZE>
+    <LINES>$4.45</LINES>
+    <FEED>012699</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Data1</SOURCE>
+    <TYPE>Hepatica americana</TYPE>
+    <ZONE>4</ZONE>
+    <SIZE>Mostly Shady</SIZE>
+    <LINES>$3.99</LINES>
+    <FEED>010299</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Share</SOURCE>
+    <TYPE>Arisaema triphyllum</TYPE>
+    <ZONE>4</ZONE>
+    <SIZE>Mostly Shady</SIZE>
+    <LINES>$3.23</LINES>
+    <FEED>020199</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Mayapple</SOURCE>
+    <TYPE>Podophyllum peltatum</TYPE>
+    <ZONE>3</ZONE>
+    <SIZE>Mostly Shady</SIZE>
+    <LINES>$2.98</LINES>
+    <FEED>060599</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Phlox, Woodland</SOURCE>
+    <TYPE>Phlox divaricata</TYPE>
+    <ZONE>3</ZONE>
+    <SIZE>Sun or Shade</SIZE>
+    <LINES>$2.80</LINES>
+    <FEED>012299</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Phlox, Blue</SOURCE>
+    <TYPE>Phlox divaricata</TYPE>
+    <ZONE>3</ZONE>
+    <SIZE>Sun or Shade</SIZE>
+    <LINES>$5.59</LINES>
+    <FEED>021699</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Spring-Beauty</SOURCE>
+    <TYPE>Claytonia Virginica</TYPE>
+    <ZONE>7</ZONE>
+    <SIZE>Mostly Shady</SIZE>
+    <LINES>$6.59</LINES>
+    <FEED>020199</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Trillium</SOURCE>
+    <TYPE>Trillium grandiflorum</TYPE>
+    <ZONE>5</ZONE>
+    <SIZE>Sun or Shade</SIZE>
+    <LINES>$3.90</LINES>
+    <FEED>042999</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Wake Robin</SOURCE>
+    <TYPE>Trillium grandiflorum</TYPE>
+    <ZONE>5</ZONE>
+    <SIZE>Sun or Shade</SIZE>
+    <LINES>$3.20</LINES>
+    <FEED>022199</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Violet, Dog-Tooth</SOURCE>
+    <TYPE>Erythronium americanum</TYPE>
+    <ZONE>4</ZONE>
+    <SIZE>Shade</SIZE>
+    <LINES>$9.04</LINES>
+    <FEED>020199</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Trout Lily</SOURCE>
+    <TYPE>Erythronium americanum</TYPE>
+    <ZONE>4</ZONE>
+    <SIZE>Shade</SIZE>
+    <LINES>$6.94</LINES>
+    <FEED>032499</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Adder's-Tongue</SOURCE>
+    <TYPE>Erythronium americanum</TYPE>
+    <ZONE>4</ZONE>
+    <SIZE>Shade</SIZE>
+    <LINES>$9.58</LINES>
+    <FEED>041399</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Anemone</SOURCE>
+    <TYPE>Anemone blanda</TYPE>
+    <ZONE>6</ZONE>
+    <SIZE>Mostly Shady</SIZE>
+    <LINES>$8.86</LINES>
+    <FEED>122698</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Grecian Windflower</SOURCE>
+    <TYPE>Anemone blanda</TYPE>
+    <ZONE>6</ZONE>
+    <SIZE>Mostly Shady</SIZE>
+    <LINES>$9.16</LINES>
+    <FEED>071099</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Bee Balm</SOURCE>
+    <TYPE>Monarda didyma</TYPE>
+    <ZONE>4</ZONE>
+    <SIZE>Shade</SIZE>
+    <LINES>$4.59</LINES>
+    <FEED>050399</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Bergamot</SOURCE>
+    <TYPE>Monarda didyma</TYPE>
+    <ZONE>4</ZONE>
+    <SIZE>Shade</SIZE>
+    <LINES>$7.16</LINES>
+    <FEED>042799</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Black-Eyed Susan</SOURCE>
+    <TYPE>Rudbeckia hirta</TYPE>
+    <ZONE>Annual</ZONE>
+    <SIZE>Sunny</SIZE>
+    <LINES>$9.80</LINES>
+    <FEED>061899</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Buttercup</SOURCE>
+    <TYPE>Ranunculus</TYPE>
+    <ZONE>4</ZONE>
+    <SIZE>Shade</SIZE>
+    <LINES>$2.57</LINES>
+    <FEED>061099</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Crowfoot</SOURCE>
+    <TYPE>Ranunculus</TYPE>
+    <ZONE>4</ZONE>
+    <SIZE>Shade</SIZE>
+    <LINES>$9.34</LINES>
+    <FEED>040399</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Butterfly Weed</SOURCE>
+    <TYPE>Asclepias tuberosa</TYPE>
+    <ZONE>Annual</ZONE>
+    <SIZE>Sunny</SIZE>
+    <LINES>$2.78</LINES>
+    <FEED>063099</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Cinquefoil</SOURCE>
+    <TYPE>Potentilla</TYPE>
+    <ZONE>Annual</ZONE>
+    <SIZE>Shade</SIZE>
+    <LINES>$7.06</LINES>
+    <FEED>052599</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Primrose</SOURCE>
+    <TYPE>Oenothera</TYPE>
+    <ZONE>3 - 5</ZONE>
+    <SIZE>Sunny</SIZE>
+    <LINES>$6.56</LINES>
+    <FEED>013099</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Gentian</SOURCE>
+    <TYPE>Gentiana</TYPE>
+    <ZONE>4</ZONE>
+    <SIZE>Sun or Shade</SIZE>
+    <LINES>$7.81</LINES>
+    <FEED>051899</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Blue Gentian</SOURCE>
+    <TYPE>Gentiana</TYPE>
+    <ZONE>4</ZONE>
+    <SIZE>Sun or Shade</SIZE>
+    <LINES>$8.56</LINES>
+    <FEED>050299</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Jacob's Ladder</SOURCE>
+    <TYPE>Polemonium caeruleum</TYPE>
+    <ZONE>Annual</ZONE>
+    <SIZE>Shade</SIZE>
+    <LINES>$9.26</LINES>
+    <FEED>022199</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Greek Valerian</SOURCE>
+    <TYPE>Polemonium caeruleum</TYPE>
+    <ZONE>Annual</ZONE>
+    <SIZE>Shade</SIZE>
+    <LINES>$4.36</LINES>
+    <FEED>071499</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>California Poppy</SOURCE>
+    <TYPE>Eschscholzia californica</TYPE>
+    <ZONE>Annual</ZONE>
+    <SIZE>Sun</SIZE>
+    <LINES>$7.89</LINES>
+    <FEED>032799</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Shooting Star</SOURCE>
+    <TYPE>Dodecatheon</TYPE>
+    <ZONE>Annual</ZONE>
+    <SIZE>Mostly Shady</SIZE>
+    <LINES>$8.60</LINES>
+    <FEED>051399</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Snakeroot</SOURCE>
+    <TYPE>Cimicifuga</TYPE>
+    <ZONE>Annual</ZONE>
+    <SIZE>Shade</SIZE>
+    <LINES>$5.63</LINES>
+    <FEED>071199</FEED>
+  </DATA>
+  <DATA>
+    <SOURCE>Cardinal Flower</SOURCE>
+    <TYPE>Lobelia cardinalis</TYPE>
+    <ZONE>2</ZONE>
+    <SIZE>Shade</SIZE>
+    <LINES>$3.02</LINES>
+    <FEED>022299</FEED>
+  </DATA>
+</MODEL_FEED>
